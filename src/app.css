@@ -1,0 +1,12 @@
+:root {
+  --bulma-primary-h: 317deg !important;
+}
+
+html,
+body {
+  overscroll-behavior: none;
+}
+
+main {
+  margin-top: 64px;
+}
